@@ -27,8 +27,6 @@ const result1= isAuthenticated ? isAuthenticated : 'guest'
 console.log({result1})
 
 
-
-
 // optional chaining
 type User={
     name: string;

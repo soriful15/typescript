@@ -42,4 +42,4 @@ eligibleRollList.push(4)
 let coordinates: [number, number]=[12,23]
 
 let ageName: [number,string,boolean]=[12, 'Mr.x', true]  
-ageName[0]=12
+ageName[1]='Mr.x'

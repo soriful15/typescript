@@ -64,6 +64,8 @@ type AddNumber=(num1:number, num2:number)=>number
 
 const array: AddNumber=(num1,num2)=>num1+num2
 
+type AddNumber2=(num1:number, num2:number)=>number
 
+const array2:AddNumber2=(num1, num2)=>num1+num2
 
 }

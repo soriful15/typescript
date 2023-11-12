@@ -39,10 +39,10 @@
 }
 
 const dog2 = new Animal('german ali', 'dog', 'ghew');
-// dog.name
-// dog.makeSound()
+// dog2.name
+// dog2.makeSound()
 const cat2 = new Animal('brazil ali', 'cat', 'meaw');
-cat.makeSound()
+cat2.makeSound()
 
 
 

@@ -31,6 +31,9 @@ d=123;
 
 // Non primitive
 // Array
+let values:(string | number)[]=['x',3,'x']
+
+
 let friends: string[] =['siam','janny']
 friends.push('rayhan')
 
@@ -40,6 +43,9 @@ eligibleRollList.push(4)
 // tuple
 // tuple ---> array --->order ---> type of values
 let coordinates: [number, number]=[12,23]
+
+
+
 
 let ageName: [number,string,boolean]=[12, 'Mr.x', true]  
 ageName[1]='Mr.x'

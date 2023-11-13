@@ -29,5 +29,3 @@ type CheckVehicle<T>= T  extends keyof Sheikh ? true : false;
  type hasBike= CheckVehicle<'hh'>
 
 }
-
-// https://github.com/Apollo-Level2-Web-Dev/batch-2-be-a-typescript-technocrat/blob/main/module2/3.9.ts
